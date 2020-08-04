@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Local Pickup for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-13 13:39+0000\n"
+"PO-Revision-Date: 2020-07-13 13:40+0000\n"
+"Last-Translator: John\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: woo-advanced-local-pickup.php:79
+#, php-format
+msgid ""
+"Please install and activate %sWooCommerce%s for WC local pickup to work!"
+msgstr ""
+"Veuillez installer et activer% sWooCommerce% s pour que le ramassage local "
+"des WC fonctionne!"
+
+#: woo-advanced-local-pickup.php:271
+#, php-format
+msgid ""
+"<strong>Note:</strong> - If you use the custom order status, when you "
+"deactivate the plugin, you must register the order status, otherwise these "
+"orders will not display on your orders admin. You can find more information "
+"and the code <a href=\"%s\" target=\"blank\">snippet</a> to use in functions."
+"php here."
+msgstr ""
+"<strong> Remarque: </strong> - Si vous utilisez le statut de commande "
+"personnalisé, lorsque vous désactivez le plugin, vous devez enregistrer le "
+"statut de la commande, sinon ces commandes ne s'afficheront pas sur votre "
+"administrateur de commandes. Vous pouvez trouver plus d'informations et le "
+"<a href=\"%s\" target=\"blank\"> extrait de code </a> à utiliser dans "
+"functions.php ici."
+
+#: include/wc-local-pickup-admin.php:99
+msgid "Pickup Locations"
+msgstr "Lieux de ramassage"
+
+#: include/wc-local-pickup-admin.php:102
+msgid "Documentation"
+msgstr "Documentation"
+
+#: include/wc-local-pickup-admin.php:204 include/wc-local-pickup-admin.php:233
+msgid "Ready for Pickup"
+msgstr "Prêt pour le ramassage"
+
+#: include/wc-local-pickup-admin.php:213 include/wc-local-pickup-admin.php:236
+#: include/views/wclp_setting_tab.php:74
+msgid "Picked up"
+msgstr "Ramassé"
+
+#: include/wc-local-pickup-admin.php:245
+msgid "Change status to Ready for pickup"
+msgstr "Changer le statut en Prêt pour l'enlèvement"
+
+#: include/wc-local-pickup-admin.php:246
+msgid "Change status to Picked up"
+msgstr "Changer le statut en Ramassé"
+
+#: include/wc-local-pickup-admin.php:419
+msgid "Sunday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:420
+msgid "Monday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:421
+msgid "Tuesday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:422
+msgid "Wednesday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:423
+msgid "Thursday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:424
+msgid "Friday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:425
+msgid "Saturday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:429
+msgid "12 hour"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:430
+msgid "24 hour"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:511
+msgid "the select for working days of your store."
+msgstr "la sélection pour les jours ouvrables de votre magasin."
+
+#: include/wc-local-pickup-admin.php:512
+#: include/views/wclp_location_details_email.php:54
+#: include/views/wclp_location_details_order_details.php:52
+msgid "Work Hours"
+msgstr "Heures de travail"
+
+#: include/wc-local-pickup-admin.php:518
+msgid "Special Instruction"
+msgstr "Instructions Spéciales"
+
+#: include/wc-local-pickup-admin.php:615
+msgid "Processing order email"
+msgstr "Traitement de l'e-mail de commande"
+
+#: include/wc-local-pickup-admin.php:616
+msgid "Order received page"
+msgstr "Page de commande reçue"
+
+#: include/wc-local-pickup-admin.php:617
+msgid "Customer account > order history > order details page"
+msgstr ""
+"Compte client> historique des commandes> page des détails de la commande"
+
+#: include/wc-local-pickup-admin.php:621
+msgid "Display pickup instruction on"
+msgstr "Afficher les instructions de ramassage sur"
+
+#: include/wc-local-pickup-admin.php:632 include/wc-local-pickup-admin.php:633
+msgid "Additional content on processing email in case of local pickup orders"
+msgstr ""
+"Contenu supplémentaire sur le traitement des e-mails en cas de commandes de "
+"ramassage locales"
+
+#: include/wc-local-pickup-admin.php:636
+msgid "You will receive an email when your order is ready for pickup."
+msgstr ""
+"Vous recevrez un e-mail lorsque votre commande sera prête à être retirée."
+
+#: include/wc-local-pickup-admin.php:1216
+msgid "Mark order as ready for pickup"
+msgstr "Marquer la commande comme prête pour l'enlèvement"
+
+#: include/wc-local-pickup-admin.php:1227
+msgid "Mark order as picked up"
+msgstr "Marquer la commande comme récupérée"
+
+#: include/customizer/wclp-customizer.php:32
+msgid "Local Pickup Order Status Emails"
+msgstr "E-mails d'état des commandes de ramassage locales"
+
+#: include/customizer/wclp-customizer.php:46
+#: include/customizer/wc-ready-pickup-email-customizer.php:153
+msgid "Ready for Pickup order status email"
+msgstr "E-mail d'état de la commande Prêt à ramasser"
+
+#: include/customizer/wclp-customizer.php:54
+msgid "Picked up order status email"
+msgstr "E-mail d'état de la commande récupérée"
+
+#: include/customizer/wclp-customizer.php:219
+msgid "Select order to preview"
+msgstr "Sélectionnez l'ordre à prévisualiser"
+
+#: include/customizer/wc-pickup-email-customizer.php:117
+msgid "Your {site_title} order is picked up"
+msgstr "Votre commande {site_title} est récupérée"
+
+#: include/customizer/wc-pickup-email-customizer.php:119
+#: include/emails/pickup-order.php:175
+msgid ""
+"Hi there. we thought you'd like to know that your recent order from "
+"{site_title} has been picked up."
+msgstr ""
+"Salut. nous avons pensé que vous aimeriez savoir que votre commande récente "
+"de {site_title} a été récupérée."
+
+#: include/customizer/wc-pickup-email-customizer.php:144
+#, fuzzy
+msgid "Picked up status email"
+msgstr "e-mail de statut ramassé"
+
+#: include/customizer/wc-pickup-email-customizer.php:145
+#: include/customizer/wc-ready-pickup-email-customizer.php:154
+msgid "This section lets you customize the Email Content."
+msgstr "Cette section vous permet de personnaliser le contenu de l'e-mail."
+
+#: include/customizer/wc-pickup-email-customizer.php:161
+msgid "Enable Picked up order status email"
+msgstr "Activer l'e-mail d'état de la commande ramassée"
+
+#: include/customizer/wc-pickup-email-customizer.php:180
+#: include/customizer/wc-ready-pickup-email-customizer.php:188
+msgid "Preview order"
+msgstr "Ordre d'aperçu"
+
+#: include/customizer/wc-pickup-email-customizer.php:184
+#: include/customizer/wc-ready-pickup-email-customizer.php:192
+msgid "Please select a order..."
+msgstr "Veuillez sélectionner une commande ..."
+
+#: include/customizer/wc-pickup-email-customizer.php:205
+#: include/customizer/wc-pickup-email-customizer.php:228
+#: include/customizer/wc-pickup-email-customizer.php:271
+#: include/customizer/wc-ready-pickup-email-customizer.php:211
+#: include/customizer/wc-ready-pickup-email-customizer.php:234
+#: include/customizer/wc-ready-pickup-email-customizer.php:368
+msgid "Available variables:"
+msgstr "Variables disponibles:"
+
+#: include/customizer/wc-pickup-email-customizer.php:249
+#: include/customizer/wc-ready-pickup-email-customizer.php:255
+msgid "Email content"
+msgstr "Contenu de l'e-mail"
+
+#: include/customizer/wc-pickup-email-customizer.php:305
+#: include/customizer/wc-pickup-email-customizer.php:313
+#: include/customizer/wc-ready-pickup-email-customizer.php:401
+#: include/customizer/wc-ready-pickup-email-customizer.php:409
+msgid "Please select order to preview."
+msgstr "Veuillez sélectionner l'ordre à prévisualiser."
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:117
+msgid "Your {site_title} order is now Ready for pickup"
+msgstr "Votre commande {site_title} est maintenant prête à être retirée"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:119
+#: include/emails/ready-pickup-order.php:178
+msgid ""
+"Hi there. we thought you'd like to know that your recent order from "
+"{site_title} has been ready for pickup."
+msgstr ""
+"Salut. nous avons pensé que vous aimeriez savoir que votre récente commande "
+"de {site_title} était prête à être retirée."
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:124
+msgid "Pickup Instruction"
+msgstr "Instruction de ramassage"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:170
+msgid "Enable Ready for Pickup order status email"
+msgstr "Activer l'e-mail d'état de la commande Prêt pour l'enlèvement"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:275
+msgid "Pickup Instruction display option"
+msgstr "Option d'affichage des instructions de ramassage"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:292
+msgid "Pickup Instruction heading"
+msgstr "En-tête d'instructions de ramassage"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:314
+msgid "Padding"
+msgstr "Rembourrage"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:335
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:351
+msgid "Background color"
+msgstr "Couleur de l'arrière plan"
+
+#: include/emails/pickup-order.php:32
+msgid "Picked up order"
+msgstr "Commande ramassée"
+
+#: include/emails/pickup-order.php:33
+msgid ""
+"Picked up Order emails are sent to customers when their orders are marked "
+"picked up."
+msgstr ""
+"Les courriels de commande ramassés sont envoyés aux clients lorsque leurs "
+"commandes sont marquées comme ramassées."
+
+#: include/emails/pickup-order.php:81
+msgid "Your {site_title} order is now picked up"
+msgstr "Votre commande {site_title} est maintenant récupérée"
+
+#: include/emails/pickup-order.php:91
+msgid "Your Order is picked up"
+msgstr "Your Order is picked up"
+
+#: include/emails/ready-pickup-order.php:33
+msgid "Ready for Pickup order"
+msgstr "Prêt pour la collecte"
+
+#: include/emails/ready-pickup-order.php:34
+msgid "Ready for Pickup Order emails are sent to customers."
+msgstr "Les e-mails prêts pour la collecte sont envoyés aux clients."
+
+#: include/emails/ready-pickup-order.php:83
+msgid "Your {site_title} order is now ready for pickup"
+msgstr "Votre commande {site_title} est maintenant prête à être retirée"
+
+#: include/emails/ready-pickup-order.php:93
+msgid "Your Order is ready for pickup"
+msgstr "Votre commande est prête à être récupérée"
+
+#: include/views/wclp_location_details_email.php:38
+#: include/views/wclp_location_details_order_details.php:36
+msgid "Address"
+msgstr "Adresse"
+
+#: include/views/wclp_location_details_email.php:88
+#: include/views/wclp_location_details_order_details.php:87
+#, fuzzy
+msgid " to"
+msgstr "À"
+
+#: include/views/wclp_locations_tab.php:9
+msgid "Location Settings"
+msgstr "Les paramètres de localisation"
+
+#: include/views/wclp_locations_tab.php:20
+#: include/views/wclp_setting_tab.php:20 include/views/wclp_setting_tab.php:117
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: include/views/wclp_setting_tab.php:9
+msgid "General Settings"
+msgstr "réglages généraux"
+
+#: include/views/wclp_setting_tab.php:35
+msgid "Local Pickup Order Statuses"
+msgstr "États des commandes d'enlèvement locales"
+
+#: include/views/wclp_setting_tab.php:45
+msgid "Ready for pickup"
+msgstr "Prêt pour le ramassage"
+
+#: include/views/wclp_setting_tab.php:60 include/views/wclp_setting_tab.php:90
+msgid "Light Font"
+msgstr "Police claire"
+
+#: include/views/wclp_setting_tab.php:61 include/views/wclp_setting_tab.php:91
+msgid "Dark Font"
+msgstr "Police sombre"
+
+#: include/views/wclp_setting_tab.php:65 include/views/wclp_setting_tab.php:95
+msgid "Send Email"
+msgstr "Envoyer un e-mail"
+
+#. Name of the plugin
+msgid "Advanced Local Pickup for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Local Pickup is a shipping method for WooCommerce that allows customers to "
+"choose to pick up the order from your stroe. WooCommerce uses the standard "
+"order flow when the local pickup shipping method has been selected."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.zorem.com/shop"
+msgstr ""
+
+#. Author of the plugin
+msgid "zorem"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.zorem.com/"
+msgstr ""

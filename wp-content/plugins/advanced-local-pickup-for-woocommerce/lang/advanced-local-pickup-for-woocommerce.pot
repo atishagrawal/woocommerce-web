@@ -1,0 +1,334 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Local Pickup for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 04:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: woo-advanced-local-pickup.php:79
+#, php-format
+msgid ""
+"Please install and activate %sWooCommerce%s for WC local pickup to work!"
+msgstr ""
+
+#: woo-advanced-local-pickup.php:271
+#, php-format
+msgid ""
+"<strong>Note:</strong> - If you use the custom order status, when you "
+"deactivate the plugin, you must register the order status, otherwise these "
+"orders will not display on your orders admin. You can find more information "
+"and the code <a href=\"%s\" target=\"blank\">snippet</a> to use in functions."
+"php here."
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:102
+msgid "Pickup Locations"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:105
+msgid "Documentation"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:207 include/wc-local-pickup-admin.php:236
+msgid "Ready for Pickup"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:216 include/wc-local-pickup-admin.php:239
+#: include/views/wclp_setting_tab.php:74
+msgid "Picked up"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:248
+msgid "Change status to Ready for pickup"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:249
+msgid "Change status to Picked up"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:422
+msgid "Monday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:423
+msgid "Tuesday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:424
+msgid "Wednesday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:425
+msgid "Thursday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:426
+msgid "Friday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:427
+msgid "Saturday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:428
+msgid "Sunday"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:432
+msgid "12 hour"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:433
+msgid "24 hour"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:514
+msgid "the select for working days of your store."
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:515
+#: include/views/wclp_location_details_email.php:54
+#: include/views/wclp_location_details_order_details.php:52
+msgid "Work Hours"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:521
+msgid "Special Instruction"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:618
+msgid "Processing order email"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:619
+msgid "Order received page"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:620
+msgid "Customer account > order history > order details page"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:624
+msgid "Display pickup instruction on"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:635 include/wc-local-pickup-admin.php:636
+msgid "Additional content on processing email in case of local pickup orders"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:639
+msgid "You will receive an email when your order is ready for pickup."
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:1219
+msgid "Mark order as ready for pickup"
+msgstr ""
+
+#: include/wc-local-pickup-admin.php:1230
+msgid "Mark order as picked up"
+msgstr ""
+
+#: include/customizer/wclp-customizer.php:32
+msgid "Local Pickup Order Status Emails"
+msgstr ""
+
+#: include/customizer/wclp-customizer.php:46
+#: include/customizer/wc-ready-pickup-email-customizer.php:153
+msgid "Ready for Pickup order status email"
+msgstr ""
+
+#: include/customizer/wclp-customizer.php:54
+msgid "Picked up order status email"
+msgstr ""
+
+#: include/customizer/wclp-customizer.php:219
+msgid "Select order to preview"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:117
+msgid "Your {site_title} order is picked up"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:119
+#: include/emails/pickup-order.php:175
+msgid ""
+"Hi there. we thought you'd like to know that your recent order from "
+"{site_title} has been picked up."
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:144
+msgid "Picked up status email"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:145
+#: include/customizer/wc-ready-pickup-email-customizer.php:154
+msgid "This section lets you customize the Email Content."
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:161
+msgid "Enable Picked up order status email"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:180
+#: include/customizer/wc-ready-pickup-email-customizer.php:188
+msgid "Preview order"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:184
+#: include/customizer/wc-ready-pickup-email-customizer.php:192
+msgid "Please select a order..."
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:205
+#: include/customizer/wc-pickup-email-customizer.php:228
+#: include/customizer/wc-pickup-email-customizer.php:271
+#: include/customizer/wc-ready-pickup-email-customizer.php:211
+#: include/customizer/wc-ready-pickup-email-customizer.php:234
+#: include/customizer/wc-ready-pickup-email-customizer.php:368
+msgid "Available variables:"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:249
+#: include/customizer/wc-ready-pickup-email-customizer.php:255
+msgid "Email content"
+msgstr ""
+
+#: include/customizer/wc-pickup-email-customizer.php:305
+#: include/customizer/wc-pickup-email-customizer.php:313
+#: include/customizer/wc-ready-pickup-email-customizer.php:401
+#: include/customizer/wc-ready-pickup-email-customizer.php:409
+msgid "Please select order to preview."
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:117
+msgid "Your {site_title} order is now Ready for pickup"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:119
+#: include/emails/ready-pickup-order.php:178
+msgid ""
+"Hi there. we thought you'd like to know that your recent order from "
+"{site_title} has been ready for pickup."
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:124
+msgid "Pickup Instruction"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:170
+msgid "Enable Ready for Pickup order status email"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:275
+msgid "Pickup Instruction display option"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:292
+msgid "Pickup Instruction heading"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:314
+msgid "Padding"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:335
+msgid "Border color"
+msgstr ""
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:351
+msgid "Background color"
+msgstr ""
+
+#: include/emails/pickup-order.php:32
+msgid "Picked up order"
+msgstr ""
+
+#: include/emails/pickup-order.php:33
+msgid ""
+"Picked up Order emails are sent to customers when their orders are marked "
+"picked up."
+msgstr ""
+
+#: include/emails/pickup-order.php:81
+msgid "Your {site_title} order is now picked up"
+msgstr ""
+
+#: include/emails/pickup-order.php:91
+msgid "Your Order is picked up"
+msgstr ""
+
+#: include/emails/ready-pickup-order.php:33
+msgid "Ready for Pickup order"
+msgstr ""
+
+#: include/emails/ready-pickup-order.php:34
+msgid "Ready for Pickup Order emails are sent to customers."
+msgstr ""
+
+#: include/emails/ready-pickup-order.php:83
+msgid "Your {site_title} order is now ready for pickup"
+msgstr ""
+
+#: include/emails/ready-pickup-order.php:93
+msgid "Your Order is ready for pickup"
+msgstr ""
+
+#: include/views/wclp_location_details_email.php:38
+#: include/views/wclp_location_details_order_details.php:36
+msgid "Address"
+msgstr ""
+
+#: include/views/wclp_location_details_email.php:88
+#: include/views/wclp_location_details_order_details.php:87
+msgid " to"
+msgstr ""
+
+#: include/views/wclp_locations_tab.php:9
+msgid "Location Settings"
+msgstr ""
+
+#: include/views/wclp_locations_tab.php:20
+#: include/views/wclp_setting_tab.php:20 include/views/wclp_setting_tab.php:117
+msgid "Save Changes"
+msgstr ""
+
+#: include/views/wclp_setting_tab.php:9
+msgid "General Settings"
+msgstr ""
+
+#: include/views/wclp_setting_tab.php:35
+msgid "Local Pickup Order Statuses"
+msgstr ""
+
+#: include/views/wclp_setting_tab.php:45
+msgid "Ready for pickup"
+msgstr ""
+
+#: include/views/wclp_setting_tab.php:60 include/views/wclp_setting_tab.php:90
+msgid "Light Font"
+msgstr ""
+
+#: include/views/wclp_setting_tab.php:61 include/views/wclp_setting_tab.php:91
+msgid "Dark Font"
+msgstr ""
+
+#: include/views/wclp_setting_tab.php:65 include/views/wclp_setting_tab.php:95
+msgid "Send Email"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Local Pickup is a shipping method for WooCommerce that allows customers to "
+"choose to pick up the order from your stroe. WooCommerce uses the standard "
+"order flow when the local pickup shipping method has been selected."
+msgstr ""

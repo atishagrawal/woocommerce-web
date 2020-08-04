@@ -1,0 +1,5 @@
+theme: jekyll-theme-architect
+github:
+  is_project_page: false
+# Google Analytics
+ga_tracking_id: UA-58021961-11
